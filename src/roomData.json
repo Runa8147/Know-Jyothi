@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "room_number": "A101",
+      "image_url": "/images/1.jpg"
+    },
+    {
+      "id": 2,
+      "room_number": "B202",
+      "image_url": "/images/2.jpg"
+    },
+    {
+      "id": 3,
+      "room_number": "C303",
+      "image_url": "/images/3.jpg"
+    },
+    {
+      "id": 4,
+      "room_number": "D404",
+      "image_url": "/images/4.jpg"
+    },
+    {
+      "id": 5,
+      "room_number": "E505",
+      "image_url": "/images/5.jpg"
+    },
+    {
+      "id": 6,
+      "room_number": "F606",
+      "image_url": "/images/6.jpg"
+    },
+    {
+      "id": 7,
+      "room_number": "G707",
+      "image_url": "/images/7.jpg"
+    },
+    {
+      "id": 8,
+      "room_number": "H808",
+      "image_url": "/images/8.jpg"
+    },
+    {
+      "id": 9,
+      "room_number": "I909",
+      "image_url": "/images/2.jpg"
+    },
+    {
+      "id": 10,
+      "room_number": "J1010",
+      "image_url": "/images/1.jpg"
+    },
+    {
+      "id": 11,
+      "room_number": "K1111",
+      "image_url": "/images/1.jpg"
+    },
+    {
+      "id": 12,
+      "room_number": "L1212",
+      "image_url": "/images/2.jpg"
+    },
+    {
+      "id": 13,
+      "room_number": "M1313",
+      "image_url": "/images/3.jpg"
+    },
+    {
+      "id": 14,
+      "room_number": "N1414",
+      "image_url": "/images/4.jpg"
+    },
+    {
+      "id": 15,
+      "room_number": "O1515",
+      "image_url": "/images/5.jpg"
+    },
+    {
+      "id": 16,
+      "room_number": "P1616",
+      "image_url": "/images/6.jpg"
+    },
+    {
+      "id": 17,
+      "room_number": "Q1717",
+      "image_url": "/images/7.jpg"
+    },
+    {
+      "id": 18,
+      "room_number": "R1818",
+      "image_url": "/images/8.jpg"
+    },
+    {
+      "id": 19,
+      "room_number": "S1919",
+      "image_url": "/images/1.jpg"
+    },
+    {
+      "id": 20,
+      "room_number": "T2020",
+      "image_url": "/images/2.jpg"
+    }
+  ]
